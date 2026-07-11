@@ -9,4 +9,4 @@ title: "ソフトウェア工学 2026"
 
 本講義で学んだ内容をまとめています。
 
-- [ソフトウェア工学2026 講義まとめ](softwareEng2026/)
+[Software Eng. Lecture Notes](softwareEng2026.md)
